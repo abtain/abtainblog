@@ -227,7 +227,7 @@ blockquote {}
 		#content section.blog article .title{ border-bottom: 1px solid #e1e1e1; padding: 0px 0px 0px 0px; }
 		#content section.blog article h1, #content section.blog article h2, #content section.blog article h3{color: #323232;}
 		#content section.blog article .title h1 {margin: 0px; padding: 0px;  float: left;}
-		#content section.blog article .title time{background: #f0f0f0; line-height: 13px;color: #A0BF4A; margin-top: -4px; padding-top: 6px;text-align: center; width: 40px; height: 36px; display: block; float: left;
+		#content section.blog article .title time{background: #f0f0f0; line-height: 13px;color: #A0BF4A; margin-top: 0px; padding-top: 6px;text-align: center; width: 8em; height: 36px; display: block; float: left;
 		font-family: Georgia, 'Times New Roman', Times, serif; font-weight: bold; font-size: 16px;}
 		#content section.blog article .title time span{font-size: 11px; }
 		#content section.blog article .title h1 a{background: #A0BF4A; color: #fff; padding: 4px 10px 6px 20px;}
