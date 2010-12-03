@@ -176,7 +176,7 @@ blockquote {}
 	#content section.portfolio aside p{font-size: 12px; color: #cbcbcb; }
 	#content section.portfolio aside a.bottom{border-top: 1px solid #1A1A1A; padding: 5px 0px 5px 27px; display: block;
 		font-family: Georgia, 'Times New Roman', Times, serif; font-weight: bold; font-size: 12px;
-		background-image: url(images/plus_li_black.png);
+		background-image: url(/images/plus_li_black.png);
 		background-repeat: no-repeat;
 		background-position: 15px 9px;
 	}
@@ -194,7 +194,7 @@ blockquote {}
 		#content section.blog aside ul {margin-left: 15px; width: 200px; padding-bottom: 10px;}
 		#content section.blog aside ul li{font-size: 12px; border-bottom: 1px solid #1a1a1a; }
 		#content section.blog aside ul li a{display: block;  padding: 3px 0px 4px 12px;
-			background-image: url(images/plus_li_black.png);
+			background-image: url(/images/plus_li_black.png);
 			background-repeat: no-repeat;
 			background-position: 0px 6px;}
 		#content section.blog aside ul li a:hover{background-color: #060606; text-decoration: none;}
@@ -213,7 +213,7 @@ blockquote {}
 		#content section.blog aside .tweet p a:hover{color: #A0BF4A; text-decoration: none;}
 		
 		#content section.blog aside .rss{padding: 5px 0px 5px 31px;
-			background-image: url(images/icon_rss.png);
+			background-image: url(/images/icon_rss.png);
 			background-repeat: no-repeat;
 			background-position: 10px 7px;
 		}
@@ -246,7 +246,7 @@ blockquote {}
 											font-size: 12px; font-family: Georgia, 'Times New Roman', Times, serif; font-style: italic;}
 		#content section.blog article ul{padding-left: 20px;}
 		#content section.blog article ul li{padding-left: 10px; padding-bottom: 5px;
-			background-image: url(images/arrow_li_black.png);
+			background-image: url(/images/arrow_li_black.png);
 			background-repeat: no-repeat;
 			background-position: 0px 4px;
 		}
@@ -254,7 +254,7 @@ blockquote {}
 		#content section.blog .prevnext{padding: 5px 0px; font-size: 18px; font-family: 'BebasRegular', Georgia, 'Times New Roman', Times, serif;}
 		#content section.blog .prevnext .prev{float: left; margin-left: 10px;}
 		#content section.blog .prevnext .prev a{padding: 5px 10px 7px 34px; 
-			background-image: url(images/blog_arrow_left_black.png);
+			background-image: url(/images/blog_arrow_left_black.png);
 			background-repeat: no-repeat;
 			background-position: 10px 10px;
 		}
@@ -262,7 +262,7 @@ blockquote {}
 		#content section.blog .prevnext .prev a:hover{	background-color: #A0BF4A; color: #fff; text-decoration: none;}
 		#content section.blog .prevnext .next{float: right; margin-right: 10px;}
 		#content section.blog .prevnext .next a{padding: 5px 34px 7px 10px; 
-			background-image: url(images/blog_arrow_right_black.png);
+			background-image: url(/images/blog_arrow_right_black.png);
 			background-repeat: no-repeat;
 			background-position: 102px 10px;
 		}
@@ -312,7 +312,7 @@ blockquote {}
 	#content section.contact .map ul{padding: 5px 0px 5px 10px;}
 		#content section.contact .map ul li{padding-left: 10px; padding-bottom: 5px; font-size: 12px; font-weight: bold; font-style: italic;
 			font-family: Georgia, 'Times New Roman', Times, serif;
-			background-image: url(images/arrow_li_black.png);
+			background-image: url(/images/arrow_li_black.png);
 			background-repeat: no-repeat;
 			background-position: 0px 4px;
 		}
@@ -327,7 +327,7 @@ blockquote {}
 			
 		}
 		#content section.pages aside ul li a{display: block;  padding: 3px 0px 4px 12px;
-		background-image: url(images/plus_li_black.png);
+		background-image: url(/images/plus_li_black.png);
 			background-repeat: no-repeat;
 			background-position: 0px 6px;}
 		#content section.pages aside ul li a:hover{background-color: #060606; text-decoration: none;}
@@ -347,7 +347,7 @@ blockquote {}
 											font-size: 12px; font-family: Georgia, 'Times New Roman', Times, serif; font-style: italic;}
 		#content section.pages section ul{padding-left: 20px;}
 		#content section.pages section ul li{padding-left: 10px; padding-bottom: 5px;
-			background-image: url(images/arrow_li_black.png);
+			background-image: url(/images/arrow_li_black.png);
 			background-repeat: no-repeat;
 			background-position: 0px 4px;
 		}
@@ -374,7 +374,7 @@ blockquote {}
 #content section.black p.big{text-shadow: 2px 2px 1px #000000;color: #9d9d9d;}
 #content section.black blockquote{ background: #000000; }
 #content section.black ul li{		
-			background-image: url(images/arrow_li_white.png);
+			background-image: url(/images/arrow_li_white.png);
 			background-repeat: no-repeat;
 			background-position: 0px 4px;
 			}
@@ -386,7 +386,7 @@ blockquote {}
 #content section.white p.big{text-shadow: 1px 1px 2px #bbb;color: #333;}
 #content section.white blockquote{ background: #f0f2f4; }
 #content section.white ul li{		
-			background-image: url(images/arrow_li_black.png);
+			background-image: url(/images/arrow_li_black.png);
 			background-repeat: no-repeat;
 			background-position: 0px 4px;
 			}
