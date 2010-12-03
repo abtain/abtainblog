@@ -129,6 +129,7 @@ blockquote {}
 #content section#header{border: 10px solid #ffffff; background: #A0BF4A; padding: 15px 20px 20px 20px; }
 #content section#header h1{font-size: 24px; padding-bottom: 0px; color: #ffffff; /*text-shadow: 1px 1px 2px #444;*/}
 #content section#header p{width: 700px; font-size: 14px;  /*text-shadow: 1px 1px 1px #444;*/font-family: Georgia, 'Times New Roman', Times, serif; color: #ededed; font-style: italic;}
+#content p{margin-bottom: 0.5em;}
 
 #content section#slider{border: 10px solid #ffffff; background: #A0BF4A; padding: 20px 0px; text-align: center;}
 #content section#slider p{text-shadow: 1px 1px 2px #101010; color: #000; font-size: 32px;font-family: 'BebasRegular', Georgia, 'Times New Roman', Times, serif; }
