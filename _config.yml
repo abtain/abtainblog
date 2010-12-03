@@ -1,0 +1,8 @@
+#markdown: rdiscount
+pygments: true
+#permalink: /:year/:month/:day/:title.html
+permalink: /:title.html
+paginate: 10
+
+auto: true
+server_port: 4000
